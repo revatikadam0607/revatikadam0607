@@ -33,7 +33,7 @@ Current Goal:
 ### Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=c,java,javascript,html,css" />
 </p>
 
 ### Frameworks & Libraries
@@ -51,7 +51,7 @@ Current Goal:
 ### Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 </p>
 
 ---
