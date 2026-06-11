@@ -64,9 +64,6 @@ Current Goal:
 
 ---
 
-
----
-
 ## 🎯 What I'm Currently Working On
 
 * 🚀 Strengthening DSA problem-solving skills
@@ -98,18 +95,10 @@ Current Goal:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="revatikadam0607@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=revatikadam0607&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
