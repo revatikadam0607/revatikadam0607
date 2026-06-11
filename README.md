@@ -64,33 +64,6 @@ Current Goal:
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=revatikadam0607&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=revatikadam0607&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=revatikadam0607&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
