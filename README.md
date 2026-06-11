@@ -57,8 +57,32 @@ Current Goal:
 ---
 
 ## 📊 GitHub Analytics
-<div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=revatikadam0607&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revatikadam0607&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=revatikadam0607&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=revatikadam0607&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -99,6 +123,14 @@ Current Goal:
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=revatikadam0607&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
