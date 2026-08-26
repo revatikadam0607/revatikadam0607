@@ -1,144 +1,187 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Revati Kadam
-
 <div align="center">
 
-### 🚀 Aspiring Software Engineer | Open Source Contributor | DSA Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:36BCF7&height=200&section=header&text=Revati%20Kadam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergrad%20%7C%20Web%20Dev%20%2B%20DSA%20%2B%20Open%20Source&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Projects+%F0%9F%9A%80;Learning+System+Design+%F0%9F%93%9A;Practicing+DSA+Daily+%F0%9F%92%AA;Exploring+Open+Source+%F0%9F%8C%8D;Future+Software+Engineer+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+real+projects%2C+not+just+tutorials;Learning+in+public+%E2%80%94+one+commit+at+a+time;Web+Dev+%2B+DSA+%2B+Open+Source" alt="Typing SVG"/>
+
+<br/>
+
+<p>
+<a href="https://revati-kadam-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/revati-kadam-41818a32a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Revati0607/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://revati-kadam-linktree.netlify.app/"><img src="https://img.shields.io/badge/All_Links-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+</p>
 
 </div>
 
----
+<br/>
 
-## 🌟 About Me
+<div align="center">
 
-```yaml
-Name: Revati Kadam
-Location: Maharashtra, India 🇮🇳
-Education: B.Tech Computer Engineering
-Focus:
-  - Data Structures & Algorithms
-  - Full Stack Development
-  - Open Source Contributions
-  - GenAI & Emerging Technologies
-
-Current Goal:
-  Crack top software engineering internships and build impactful products.
+```bash
+$ whoami
 ```
 
----
-
-## 🛠 Tech Stack
-
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,javascript,html,css" />
-</p>
-
-### Frameworks & Libraries
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
-</p>
-
-### Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-</p>
-
----
-
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=revatikadam0607&theme=tokyonight&hide_border=true"/>
+**B.Tech Computer Engineering student, focused on web development and DSA.**
+Learning by shipping real projects instead of just tutorials, and picking up open-source workflow — issues, PRs, reviews — along the way. Not claiming mastery, just showing consistent progress.
 
 </div>
 
----
-
-## 📈 Activity Graph
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=revatikadam0607&theme=tokyo-night&hide_border=true"/>
+### 🧰 Stack I actually work with
+
+**Languages** <br/> <img src="https://skillicons.dev/icons?i=java,c,js,html,css"/>
+
+**Frameworks & Libraries** <br/> <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap"/>
+
+**Databases & Backend-adjacent** <br/> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+
+**Tools** <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman"/>
+
+**Also learning:** DSA · OOP · DBMS · Operating Systems · Computer Networks
+
+*(No skill percentages — icons show what I use, not fake mastery scores.)*
 
 </div>
 
----
-
-## 🎯 What I'm Currently Working On
-
-* 🚀 Strengthening DSA problem-solving skills
-* 🌍 Contributing to Open Source Projects
-* 🤖 Exploring Generative AI applications
-* 💻 Building Full Stack Projects
-* 📚 Learning Software Engineering Best Practices
-
----
-
-## 💡 Developer Mindset
-
-> "I don't just write code to make things work.
-> I strive to build scalable, maintainable, and impactful solutions."
-
-> "Consistency beats intensity. Small improvements every day create extraordinary results."
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/revati-kadam-41818a32a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/revatikadam0607">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="revatikadam0607@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=revatikadam0607&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
+<br/>
 
 <div align="center">
 
-## ⚡ Recruiter's Note
+### 🚀 Featured builds
 
-I am passionate about solving real-world problems through technology, continuously learning new concepts, and collaborating with talented developers.
+</div>
 
-If you're looking for someone who is:
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-✅ Curious to learn
-✅ Consistent in execution
-✅ Strongly focused on growth
-✅ Passionate about engineering excellence
+**📄 ExamVault** <br/>
+Centralized previous-year question paper portal — search by subject/semester, live deploy, EmailJS feedback loop. <br/><br/> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>EmailJS</code> <br/><br/> <a href="https://examvault-pyqs.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/ExamVault">💻 Code</a>
 
-Let's connect and build something impactful together.
+</td>
+<td width="33%" align="center" valign="top">
 
-### ⭐ Building Today. Learning Every Day. Growing Forever.
+**🕒 WorkPulse** <br/>
+Employee operations / tracking portal, Node + Express backend, live deploy. Earlier-stage, actively being built out. <br/><br/> <code>Node.js</code> <code>Express</code> <code>HTML</code> <code>JavaScript</code> <br/><br/> <a href="https://workpulse-employee.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/WorkPulse">💻 Code</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**🌐 Portfolio** <br/>
+My personal site — also grown into a small open-source repo, with 25+ forks and 17+ PRs from others building on top of it. <br/><br/> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>EmailJS</code> <br/><br/> <a href="https://revati-kadam-portfolio.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/portfolio">💻 Code</a>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+**✨ NovaSpark — Landing Page** <br/>
+A responsive landing page project focused on modern frontend design, layout, styling, and interactive UI elements. <br/><br/> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <br/><br/> <a href="https://novaspark-landing-page.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/NovaSpark-Landing-Page">💻 Code</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**🧮 CalcPro** <br/>
+A calculator web application built as a frontend practice project, focusing on interactive functionality and responsive UI. <br/><br/> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <br/><br/> <a href="https://calcpro-calculator.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/CalcPro">💻 Code</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**⚙️ Momentum Forge** <br/>
+Placement-preparation dashboard with roadmap-based planning, task management, progress tracking, statistics, and interactive productivity features. <br/><br/> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Firebase</code> <br/><br/> <a href="https://momentumforge.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/MomentumForge">💻 Code</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📚 Learning logs
+
+*Not showcase projects — just where I keep reps in public.*
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+**[`DSA-in-Java`](https://github.com/revatikadam0607/DSA-in-Java)** <br/>
+Arrays, patterns, recursion, and core DSA topics in Java, organized by concept.
+
+</td>
+<td width="50%" align="center">
+
+**[`Web-Development`](https://github.com/revatikadam0607/Web-Development)** <br/>
+HTML/CSS/JS practice, moving into React/Node/Express as I go.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🌱 Open source
+
+```bash
+$ git log --author=revati --stat
+```
+
+🦈 **Pull Shark ×3** — merged PRs across multiple repos  |  🤝 **Pair Extraordinaire** — collaborative work via co-authored commits
+
+Maintainer-side experience too — reviewing community PRs on the portfolio repo above, not just sending them.
+
+<sub>Self-reported from ECSoC26: 261 merged PRs across 43 repositories, ~5,566 XP, rank #11 among 3,500+ contributors — context I'm sharing, not a number pulled from a public leaderboard API.</sub>
+
+<br/>
+
+<div align="center">
+
+### 🎯 Currently
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=36BCF7&center=true&vCenter=true&width=640&lines=%5B%E2%9C%93%5D+Strengthening+DSA%2C+one+topic+at+a+time;%5B%E2%9C%93%5D+Iterating+on+WorkPulse+%2B+ExamVault+past+v1;%5B%E2%9C%93%5D+Reviewing+PRs+on+the+portfolio+repo;Getting+comfortable+with+full+Node%2FExpress%2FMongo" alt="Currently working on"/>
+
+<br/><br/>
+
+<div align="center">
+
+### 📊 GitHub stats
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=revatikadam0607&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+
+<br/><br/>
+<div align="center">
+
+### 📊 Quick stats
+
+<a href="https://github.com/revatikadam0607?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/revatikadam0607&label=Public%20Repos&query=$.public_repos&color=36BCF7&style=for-the-badge"/></a> <a href="https://github.com/revatikadam0607?tab=followers"><img src="https://img.shields.io/github/followers/revatikadam0607?label=Followers&style=for-the-badge&color=36BCF7"/></a> <a href="https://github.com/revatikadam0607?tab=stars"><img src="https://img.shields.io/github/stars/revatikadam0607?affiliations=OWNER&style=for-the-badge&color=36BCF7&label=Stars"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=revatikadam0607&label=Profile+Views&color=36BCF7&style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Building today. Learning every day.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:36BCF7&height=100&section=footer" width="100%"/>
 
 </div>
