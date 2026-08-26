@@ -23,8 +23,7 @@
 $ whoami
 ```
 
-**B.Tech Computer Engineering student, focused on web development and DSA.**
-Learning by shipping real projects instead of just tutorials, and picking up open-source workflow — issues, PRs, reviews — along the way. Not claiming mastery, just showing consistent progress.
+> B.Tech Computer Engineering student focused on **web development** and **DSA**, learning by shipping real projects instead of just tutorials, and picking up open-source workflow along the way — issues, PRs, reviews, the whole loop. Not claiming mastery, just showing consistent progress.
 
 </div>
 
@@ -32,17 +31,19 @@ Learning by shipping real projects instead of just tutorials, and picking up ope
 
 <div align="center">
 
-### 🧰 Stack I actually work with
+```bash
+$ 🧰 Stack I actually work with
+```
 
-**Languages** <br/> <img src="https://skillicons.dev/icons?i=java,c,js,html,css"/>
+> **Languages** <br/> <img src="https://skillicons.dev/icons?i=java,c,js,html,css"/>
 
-**Frameworks & Libraries** <br/> <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap"/>
+> **Frameworks & Libraries** <br/> <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap"/>
 
-**Databases & Backend-adjacent** <br/> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+> **Databases & Backend-adjacent** <br/> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
 
-**Tools** <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman"/>
+> **Tools** <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman"/>
 
-**Also learning:** DSA · OOP · DBMS · Operating Systems · Computer Networks
+> **Also learning:** DSA · OOP · DBMS · Operating Systems · Computer Networks
 
 *(No skill percentages — icons show what I use, not fake mastery scores.)*
 
@@ -51,8 +52,10 @@ Learning by shipping real projects instead of just tutorials, and picking up ope
 <br/>
 
 <div align="center">
-
-### 🚀 Featured builds
+  
+```bash
+$ 🚀 Featured builds
+```
 
 </div>
 
@@ -60,19 +63,19 @@ Learning by shipping real projects instead of just tutorials, and picking up ope
 <tr>
 <td width="33%" align="center" valign="top">
 
-**📄 ExamVault** <br/>
+> **📄 ExamVault** <br/>
 Centralized previous-year question paper portal — search by subject/semester, live deploy, EmailJS feedback loop. <br/><br/> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>EmailJS</code> <br/><br/> <a href="https://examvault-pyqs.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/ExamVault">💻 Code</a>
 
 </td>
 <td width="33%" align="center" valign="top">
 
-**🕒 WorkPulse** <br/>
+> **🕒 WorkPulse** <br/>
 Employee operations / tracking portal, Node + Express backend, live deploy. Earlier-stage, actively being built out. <br/><br/> <code>Node.js</code> <code>Express</code> <code>HTML</code> <code>JavaScript</code> <br/><br/> <a href="https://workpulse-employee.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/WorkPulse">💻 Code</a>
 
 </td>
 <td width="33%" align="center" valign="top">
 
-**🌐 Portfolio** <br/>
+> **🌐 Portfolio** <br/>
 My personal site — also grown into a small open-source repo, with 25+ forks and 17+ PRs from others building on top of it. <br/><br/> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>EmailJS</code> <br/><br/> <a href="https://revati-kadam-portfolio.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/portfolio">💻 Code</a>
 
 </td>
@@ -83,19 +86,19 @@ My personal site — also grown into a small open-source repo, with 25+ forks an
 <tr>
 <td width="33%" align="center" valign="top">
 
-**✨ NovaSpark — Landing Page** <br/>
+> **✨ NovaSpark — Landing Page** <br/>
 A responsive landing page project focused on modern frontend design, layout, styling, and interactive UI elements. <br/><br/> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <br/><br/> <a href="https://novaspark-landing-page.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/NovaSpark-Landing-Page">💻 Code</a>
 
 </td>
 <td width="33%" align="center" valign="top">
 
-**🧮 CalcPro** <br/>
+> **🧮 CalcPro** <br/>
 A calculator web application built as a frontend practice project, focusing on interactive functionality and responsive UI. <br/><br/> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <br/><br/> <a href="https://calcpro-calculator.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/CalcPro">💻 Code</a>
 
 </td>
 <td width="33%" align="center" valign="top">
 
-**⚙️ Momentum Forge** <br/>
+> **⚙️ Momentum Forge** <br/>
 Placement-preparation dashboard with roadmap-based planning, task management, progress tracking, statistics, and interactive productivity features. <br/><br/> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Firebase</code> <br/><br/> <a href="https://momentumforge.netlify.app/">🔗 Live</a> · <a href="https://github.com/revatikadam0607/MomentumForge">💻 Code</a>
 
 </td>
@@ -106,7 +109,9 @@ Placement-preparation dashboard with roadmap-based planning, task management, pr
 
 <div align="center">
 
-### 📚 Learning logs
+```bash
+$ 📚 Learning logs
+```
 
 *Not showcase projects — just where I keep reps in public.*
 
@@ -116,13 +121,13 @@ Placement-preparation dashboard with roadmap-based planning, task management, pr
 <tr>
 <td width="50%" align="center">
 
-**[`DSA-in-Java`](https://github.com/revatikadam0607/DSA-in-Java)** <br/>
+> **[`DSA-in-Java`](https://github.com/revatikadam0607/DSA-in-Java)** <br/>
 Arrays, patterns, recursion, and core DSA topics in Java, organized by concept.
 
 </td>
 <td width="50%" align="center">
 
-**[`Web-Development`](https://github.com/revatikadam0607/Web-Development)** <br/>
+> **[`Web-Development`](https://github.com/revatikadam0607/Web-Development)** <br/>
 HTML/CSS/JS practice, moving into React/Node/Express as I go.
 
 </td>
@@ -133,23 +138,9 @@ HTML/CSS/JS practice, moving into React/Node/Express as I go.
 
 <div align="center">
 
-### 🌱 Open source
-
 ```bash
-$ git log --author=revati --stat
+$ 🎯 Currently
 ```
-
-🦈 **Pull Shark ×3** — merged PRs across multiple repos  |  🤝 **Pair Extraordinaire** — collaborative work via co-authored commits
-
-Maintainer-side experience too — reviewing community PRs on the portfolio repo above, not just sending them.
-
-<sub>Self-reported from ECSoC26: 261 merged PRs across 43 repositories, ~5,566 XP, rank #11 among 3,500+ contributors — context I'm sharing, not a number pulled from a public leaderboard API.</sub>
-
-<br/>
-
-<div align="center">
-
-### 🎯 Currently
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=36BCF7&center=true&vCenter=true&width=640&lines=%5B%E2%9C%93%5D+Strengthening+DSA%2C+one+topic+at+a+time;%5B%E2%9C%93%5D+Iterating+on+WorkPulse+%2B+ExamVault+past+v1;%5B%E2%9C%93%5D+Reviewing+PRs+on+the+portfolio+repo;Getting+comfortable+with+full+Node%2FExpress%2FMongo" alt="Currently working on"/>
 
@@ -157,7 +148,9 @@ Maintainer-side experience too — reviewing community PRs on the portfolio repo
 
 <div align="center">
 
-### 📊 GitHub stats
+```bash
+$ 📊 GitHub stats
+```
 
 <br/>
 
@@ -166,7 +159,9 @@ Maintainer-side experience too — reviewing community PRs on the portfolio repo
 <br/><br/>
 <div align="center">
 
-### 📊 Quick stats
+```bash
+$ 📊 Quick stats
+```
 
 <a href="https://github.com/revatikadam0607?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/revatikadam0607&label=Public%20Repos&query=$.public_repos&color=36BCF7&style=for-the-badge"/></a> <a href="https://github.com/revatikadam0607?tab=followers"><img src="https://img.shields.io/github/followers/revatikadam0607?label=Followers&style=for-the-badge&color=36BCF7"/></a> <a href="https://github.com/revatikadam0607?tab=stars"><img src="https://img.shields.io/github/stars/revatikadam0607?affiliations=OWNER&style=for-the-badge&color=36BCF7&label=Stars"/></a>
 
