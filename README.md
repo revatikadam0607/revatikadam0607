@@ -175,8 +175,10 @@ $ 📊 Quick stats
 
 <div align="center">
 
-**Building today. Learning every day.**
-
+<div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=%F0%9F%8C%BB+Building+today.+Learning+every+day." alt="Building today. Learning every day." />
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:36BCF7&height=100&section=footer" width="100%"/>
 
 </div>
